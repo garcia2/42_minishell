@@ -1,0 +1,9 @@
+minishell
+*.o
+libft.a
+main_p.c
+*objects/
+.vscode
+tester.sh
+corbeille/
+minishell42tester/
